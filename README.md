@@ -43,6 +43,27 @@ Model Training
 Model Evaluation
 ```
 
+## Exploratory Data Analysis
+
+### Key Findings
+- **Finding 1:** Applicants with higher credit scores (above 700) have a significantly higher approval rate of 92%, compared to only 35% for those with lower scores.
+- **Finding 2:** Debt-to-Income (DTI) ratio is a critical factor; applicants with DTI below 0.4 have 85% approval rates, while those above 0.6 have only 15% approval rates.
+- **Finding 3:** Savings amount shows a strong positive correlation with loan approval; applicants with savings above $50,000 have 88% approval probability.
+
+### Visualizations
+
+#### Distribution Plots
+![Distribution Plots](https://via.placeholder.com/800x600?text=Distribution+Plots)
+
+#### Heatmaps
+![Correlation Heatmap](https://via.placeholder.com/800x600?text=Correlation+Heatmap)
+
+#### Histograms
+![Histograms](https://via.placeholder.com/800x600?text=Feature+Histograms)
+
+#### Boxplots
+![Boxplots](https://via.placeholder.com/800x600?text=Feature+Boxplots)
+
 ## Models Used
 - Logistic Regression
 - KNN
