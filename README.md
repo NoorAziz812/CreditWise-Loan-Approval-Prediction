@@ -1,4 +1,4 @@
-💳 **<span style="font-size: 28px;">CreditWise: Loan Approval Prediction System</span>**
+**<span style="font-size: 30px;">💳CreditWise: Loan Approval Prediction System</span>**
 
 ## Overview
 This project predicts whether a loan application will be approved using machine learning techniques and applicant financial information.
