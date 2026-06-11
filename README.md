@@ -98,4 +98,4 @@ Model Evaluation
 B.Tech CSE (AI/ML)
 
 - **GitHub:** [github.com/NoorAziz812](https://github.com/NoorAziz812)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Noor Aziz](https://www.linkedin.com/in/noor-aziz-2815b0373/)
