@@ -8,10 +8,12 @@ Banks receive numerous loan applications.
 The goal is to predict loan approval decisions using applicant information such as income, credit score, savings, and debt-to-income ratio.
 
 ## Dataset
-Source: Kaggle
-Number of Records: 1000
-Number of Features: 20
-Target Variable: Loan_Approved
+| Attribute | Value |
+|-----------|-------|
+| Source | Kaggle |
+| Number of Records | 1000 |
+| Number of Features | 20 |
+| Target Variable | Loan_Approved |
 
 ## Technologies Used
 - Python
