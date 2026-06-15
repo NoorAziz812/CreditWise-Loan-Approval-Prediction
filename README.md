@@ -7,6 +7,28 @@ This project predicts whether a loan application will be approved using machine 
 Banks receive numerous loan applications.
 The goal is to predict loan approval decisions using applicant information such as income, credit score, savings, and debt-to-income ratio.
 
+## Project Structure
+```
+CreditWise-Loan-Approval-Prediction
+│
+├── data/
+│   └── loan_approval_data.csv
+│
+├── notebooks/
+│   └── creditwise_analysis.ipynb
+│
+├── images/
+│   ├── class_distribution.png
+│   ├── credit_score_histogram.png
+│   ├── correlation_heatmap.png
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── .gitignore
+```
+
 ## Dataset
 | Attribute | Value |
 |-----------|-------|
