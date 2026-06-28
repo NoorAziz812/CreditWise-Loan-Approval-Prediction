@@ -102,9 +102,9 @@ Model Evaluation
 - Savings positively influence approval outcomes.
 
 ## Results
-- Logistic Regression Accuracy: 87%
-- KNN Accuracy: 84%
-- Naive Bayes Accuracy: 82%
+- Logistic Regression Accuracy: 87.5%
+- KNN Accuracy: 75.5%
+- Naive Bayes Accuracy: 86.5%
 
 ## Future Improvements
 - Random Forest
