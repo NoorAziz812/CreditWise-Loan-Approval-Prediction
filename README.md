@@ -1,4 +1,3 @@
-
 ## Overview
 This project predicts whether a loan application will be approved using machine learning techniques and applicant financial information.
 
@@ -74,16 +73,16 @@ Model Evaluation
 ### Visualizations
 
 #### Distribution Plots
-![Distribution Plots](https://via.placeholder.com/800x600?text=Distribution+Plots)
+![Distribution Plots](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/class_distribution.png?raw=true)
 
 #### Heatmaps
-![Correlation Heatmap](https://via.placeholder.com/800x600?text=Correlation+Heatmap)
+![Correlation Heatmap](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/correlation_heatmap.png?raw=true)
 
 #### Histograms
-![Histograms](https://via.placeholder.com/800x600?text=Feature+Histograms)
+![Histograms](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/credit_score_histogram.png?raw=true)
 
 #### Boxplots
-![Boxplots](https://via.placeholder.com/800x600?text=Feature+Boxplots)
+![Boxplots](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/class_distribution.png?raw=true)
 
 ## Models Used
 - Logistic Regression
