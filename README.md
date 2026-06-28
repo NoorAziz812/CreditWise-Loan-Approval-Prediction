@@ -1,3 +1,5 @@
+# CreditWise: Loan Approval Prediction
+
 ## Overview
 This project predicts whether a loan application will be approved using machine learning techniques and applicant financial information.
 
