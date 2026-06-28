@@ -72,17 +72,7 @@ Model Evaluation
 
 ### Visualizations
 
-#### Distribution Plots
-![Distribution Plots](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/class_distribution.png?raw=true)
-
-#### Heatmaps
-![Correlation Heatmap](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/correlation_heatmap.png?raw=true)
-
-#### Histograms
-![Histograms](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/credit_score_histogram.png?raw=true)
-
-#### Boxplots
-![Boxplots](https://github.com/NoorAziz812/CreditWise-Loan-Approval-Prediction/blob/main/images/class_distribution.png?raw=true)
+- Please see the distribution plots, histograms, heatmaps and boxplots in the images folder.
 
 ## Models Used
 - Logistic Regression
