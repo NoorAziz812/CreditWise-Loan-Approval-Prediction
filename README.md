@@ -1,13 +1,13 @@
-# CreditWise: Loan Approval Prediction
+# 🏦 CreditWise: Loan Approval Prediction
 
-## Overview
+## 📋 Overview
 This project predicts whether a loan application will be approved using machine learning techniques and applicant financial information.
 
-## Problem Statement
+## 🎯 Problem Statement
 Banks receive numerous loan applications.
 The goal is to predict loan approval decisions using applicant information such as income, credit score, savings, and debt-to-income ratio.
 
-## Project Structure
+## 📁 Project Structure
 ```
 CreditWise-Loan-Approval-Prediction
 │
@@ -29,7 +29,7 @@ CreditWise-Loan-Approval-Prediction
 └── .gitignore
 ```
 
-## Dataset
+## 📊 Dataset
 | Attribute | Value |
 |-----------|-------|
 | Source | Kaggle |
@@ -37,7 +37,7 @@ CreditWise-Loan-Approval-Prediction
 | Number of Features | 20 |
 | Target Variable | Loan_Approved |
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -46,7 +46,7 @@ CreditWise-Loan-Approval-Prediction
 - Scikit-Learn
 - Jupyter Notebook
 
-## Project Workflow
+## 🔄 Project Workflow
 ```
 Data Loading
     ↓
@@ -65,46 +65,46 @@ Model Training
 Model Evaluation
 ```
 
-## Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
-### Key Findings
+### 💡 Key Findings
 - **Finding 1:** Applicants with higher credit scores (above 700) have a significantly higher approval rate of 92%, compared to only 35% for those with lower scores.
 - **Finding 2:** Debt-to-Income (DTI) ratio is a critical factor; applicants with DTI below 0.4 have 85% approval rates, while those above 0.6 have only 15% approval rates.
 - **Finding 3:** Savings amount shows a strong positive correlation with loan approval; applicants with savings above $50,000 have 88% approval probability.
 
-### Visualizations
+### 📈 Visualizations
 
 - Please see the distribution plots, histograms, heatmaps and boxplots in the images folder.
 
-## Models Used
+## 🤖 Models Used
 - Logistic Regression
 - KNN
 - Naive Bayes
 
-## Evaluation Metrics
+## 📐 Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
 - F1 Score
 - Confusion Matrix
 
-## Key Insights
+## 🔑 Key Insights
 - Higher credit scores significantly increase approval probability.
 - Lower DTI ratios are associated with higher approval rates.
 - Savings positively influence approval outcomes.
 
-## Results
+## ✅ Results
 - Logistic Regression Accuracy: 87.5%
 - KNN Accuracy: 75.5%
 - Naive Bayes Accuracy: 86.5%
 
-## Future Improvements
+## 🚀 Future Improvements
 - Random Forest
 - XGBoost
 - Hyperparameter Tuning
 - Deployment
 
-## Author
+## 👤 Author
 
 **Noor Aziz**  
 B.Tech CSE (AI/ML)
